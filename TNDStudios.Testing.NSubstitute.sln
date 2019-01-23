@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TNDStudios.Testing.NSubstitute", "TNDStudios.Testing.NSubstitute\TNDStudios.Testing.NSubstitute.csproj", "{BCD55394-66AD-4D2F-93C0-2FFB70F93189}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{BCD55394-66AD-4D2F-93C0-2FFB70F93189}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

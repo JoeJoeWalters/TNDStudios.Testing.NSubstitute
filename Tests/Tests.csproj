@@ -4,6 +4,10 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
 
     <IsPackable>false</IsPackable>
+
+    <AssemblyName>TNDStudios.Testing.NSubstitute</AssemblyName>
+
+    <RootNamespace>TNDStudios.Testing.NSubstitute.Tests</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
